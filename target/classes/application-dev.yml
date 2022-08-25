@@ -1,0 +1,31 @@
+auth:
+ jwt: 
+  expiration: 10000000
+  secret: minhasenhasecreta
+  
+spring:
+  data:
+    mongodb:
+      host: 127.0.0.1 
+      port: 27017
+      database: security-auth
+      authentication-database: admin
+      username: root
+      password: example
+      auto-index-creation: true
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+server:
+    port: 8092
+
+eureka:
+    client:
+        register-with-eureka: true
+        fetch-registry: true
+        service-url:
+            defaultZone: http://localhost:8761/eureka/
+    instance:
+        hostname: localhost

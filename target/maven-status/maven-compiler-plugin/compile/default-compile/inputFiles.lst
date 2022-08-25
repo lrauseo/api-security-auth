@@ -1,0 +1,14 @@
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\model\AuthUser.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\config\security\AuthenticatonService.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\controller\UserController.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\dto\request\RequestUserCreateDTO.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\ApiSecurityAuthApplication.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\config\security\SecurityConfiguration.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\dto\response\ResponseTokenDTO.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\service\UserService.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\dto\request\LoginRequestDTO.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\controller\AuthController.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\config\security\AuthenticationTokenFilter.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\repository\AuthUserRepository.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\config\security\TokenService.java
+C:\Projetos\java_workspace\api-security-auth\src\main\java\com\lrrauseo\auth\model\Profile.java
